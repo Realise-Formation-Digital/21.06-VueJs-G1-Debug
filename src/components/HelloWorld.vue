@@ -31,9 +31,6 @@
       <li><a href="https://github.com/vuejs/awesome-vue" target="_blank" rel="noopener">awesome-vue</a></li>
     </ul>
   </div>
-  <div class="hello">
-    <h1>{{ test }}</h1>
-  </div>
 </template>
 
 <script>
